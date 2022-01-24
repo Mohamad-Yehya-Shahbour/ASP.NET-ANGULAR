@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodAffection Yt\\.Net API CRUD\\project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\Users\\JASS1\\Downloads\\ASP.NET-ANGULAR\\ASP.NET-ANGULAR\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\CodAffection Yt\\.Net API CRUD\\project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\Users\\JASS1\\Downloads\\ASP.NET-ANGULAR\\ASP.NET-ANGULAR\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodAffection Yt\\.Net API CRUD\\project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\JASS1\\Downloads\\ASP.NET-ANGULAR\\ASP.NET-ANGULAR\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\CodAffection Yt\\.Net API CRUD\\project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
-        "packagesPath": "C:\\Users\\Shamseer\\.nuget\\packages\\",
-        "outputPath": "C:\\CodAffection Yt\\.Net API CRUD\\project\\PaymentAPI\\PaymentAPI\\obj\\",
+        "projectPath": "C:\\Users\\JASS1\\Downloads\\ASP.NET-ANGULAR\\ASP.NET-ANGULAR\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "packagesPath": "C:\\Users\\JASS1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JASS1\\Downloads\\ASP.NET-ANGULAR\\ASP.NET-ANGULAR\\PaymentAPI\\PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamseer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JASS1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
